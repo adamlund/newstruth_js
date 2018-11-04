@@ -1,0 +1,40 @@
+{
+    "adkey":null,
+    "advalue":null,
+    "barely_true_count":10,
+    "current_job":"Radio host",
+    "false_count":12,
+    "first_name":"Rush",
+    "half_true_count":5,
+    "home_state":"",
+    "id":156,
+    "last_name":"Limbaugh",
+    "mostly_true_count":2,
+    "name_slug":"rush-limbaugh",
+    "pants_count":10,
+    "party":
+        {
+            "id":2,
+            "party":"None",
+            "party_slug":"none",
+            "resource_uri":"/api/v/2/party/2/"
+        },
+    "photo":"https://s3.amazonaws.com/static.politifact.com/politifact/mugs/rush_limbaugh6.jpg",
+    "primary_edition":
+        {
+            "adkey":"Editions",
+            "advalue":"Punditfact",
+            "edition":"PunditFact",
+            "edition_slug":"punditfact",
+            "has_afterthefact":false,
+            "id":48,
+            "index_page":false,
+            "meter_name":"The PunditFact Truth-O-Meter",
+            "resource_uri":"/api/v/2/edition/48/"
+        },
+    "promise_meter_cutout":null,
+    "resource_uri":"/api/v/2/person/156/",
+    "total_count":39,
+    "true_count":0,
+    "website":"http://www.rushlimbaugh.com/"
+}

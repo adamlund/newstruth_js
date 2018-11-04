@@ -1,0 +1,23 @@
+{
+  "name": "nlp-truthy-node",
+  "version": "0.0.1",
+  "description": "News source text analysis with natual language processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test",
+    "start": "node src/index.js",
+    "watch": "nodemon --watch src -x \"npm run start\""
+  },
+  "author": "Adam Lund",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "compromise": "^11.12.1",
+    "fs-extra": "^7.0.0",
+    "lodash": "^4.17.11",
+    "natural": "^0.6.2",
+    "newspaperjs": "^1.0.6",
+    "nodemon": "^1.18.5",
+    "single-line-log": "^1.1.2"
+  }
+}
